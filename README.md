@@ -4,7 +4,7 @@
 
 El _theremin_ es un instrumento musical muy curioso, pues no necesita de contacto directo, sino que detecta la posición de las manos, y según esta suena una frecuencia particular, a un volumen determinado. Creamos uno propio que, gracias a un trabajo enfocado en ello, fue la vía por la que Irene, Lázaro, Joan y Tamara (quienes son pacientes de ELA) convirtieron sus movimientos en melodías, y usándolo también se registraro estas, se tradujeran (de eso trata este repositorioa) e incluso se reprodujeron en el estudio de grabación. Todo este proceso ha sido parte del proyecto CiudadELA Camp, al que se han unido un grupo de músicos cubanos para, usando estas melodías registradas, crear canciones que serán vendidas como NFT para apoyar a los pacientes con esta enfermedad.
 
-Puedes saprender más sobre este instrumento, qué es CiudadELA, y cómo se usó el _theremin_ en ella acá: <github.com/Nativos-B612/CiudadELA_theremin>
+Puedes saprender más sobre este instrumento, qué es CiudadELA, y cómo se usó el _theremin_ en ella acá: <https://github.com/Nativos-B612/CiudadELA_theremin>
 
 Aunque podemos registrar las notas que produce el _theremin_, y guardarlas en un documento, estas se verán como números, las frecuencias de distintas ondas, pues cada nota musical es eso, una onda. Estos números no son viables para que los músicos trabajen, a no ser que usen una tabla para traducirlos a la nota musical correspondiente, nota por nota, y esto puede ser bastante exasperante cuando tenemos una gran cantidad de datos.
 
@@ -26,7 +26,7 @@ Bastará con introducir el documento que queremos traducir, y a qué cifrado que
 
 ¿Pero qué es esto de 'cifrado'? Si colocamos el puntero del mouse en los signos de interrogación aparecerá información necesaria en caso de que no estemos familiarizados, esto es conocido como tooltip:
 
-![Semantic description of image](/source/images/Tooltip1.png)*El documento mostrado es un ejemplo, no pertenece a ningún paciente.*Se muestra un comentario sobre cada posible opción para el cifrado (agrandar imagen en caso necesario).*
+![Semantic description of image](/source/images/Tooltip1.png)*Se muestra un comentario sobre cada posible opción para el cifrado*
 
 Si te preguntas sobre la opción de traducir a arduino, es necesaria para que, luego de haberse registrado las notas, o que los músicos seleccionen algunas notas específicas, podamos volver a llevar todo eso a la notación específica que entiende el código del theremin, y esa melodía pueda ser guardada dentro de él. De esta forma podrá reproducirla, fielmente, de manera automática. Esto podemos usarlo en el proceso musical, pero también es una funcionalidad que puede ser necesaria para otros programadores que quieran incluir música en su código, de esta manera buscan las notas musicales en su notación normal, y las traducen rápidamente con el programa, listas para usarse. 
 
