@@ -48,7 +48,7 @@ Unas 300 líneas de código, de las cuáles 2/3 están destinadas a crear la int
 
 En todo el proceso para determinar qué era necesario programar en pos de una experiencia de usuario óptima, así como en la creación de la paleta de colores usada y el propio ícono, trabajó la diseñadora [Maria Paula Lista Jorge][identifier].
 
-El programa en caso de querer copiarlo cuenta con un instalador, que solo pesa 200 MB, y es muy sencillo de seguir, a la vez que rápido. Lo podrás encontrar también en _Softwares_.
+El programa en caso de querer copiarlo cuenta con un instalador, que solo pesa 200 MB, y es muy sencillo de seguir, a la vez que rápido. Lo podrás solicitar al equipo de Nativos B 6 12.
 
 <!-- Identifiers-->
 [identifier]: https://www.instagram.com/maripepa_44/
