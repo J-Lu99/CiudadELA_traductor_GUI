@@ -23,7 +23,7 @@ El programa está disponible como un ejecutable, un .exe, solo tendremos que dar
 
 Bastará con introducir el documento que queremos traducir, y a qué cifrado queremos traducirlo.
 
-![Semantic description of image](/source/images/Select.png)*El documento mostrado es un ejemplo, no pertenece a ningún paciente.*
+![Semantic description of image](/source/images/Select.png)*                       El documento mostrado es un ejemplo, no pertenece a ningún paciente.*
 
 ¿Pero qué es esto de 'cifrado'? Si colocamos el puntero del mouse en los signos de interrogación aparecerá información necesaria en caso de que no estemos familiarizados, esto es conocido como tooltip:
 
